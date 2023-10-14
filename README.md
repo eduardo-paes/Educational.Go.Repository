@@ -1,6 +1,6 @@
 # Go Concurrency Patterns and Usage Guide
 
-This repository contains code examples and explanations of how to effectively use Go's concurrency features, including channels, goroutines, and the `select` statement. It also covers some common concurrency patterns.
+This repository contains code examples and explanations of how to effectively use Go's concurrency features, including `channels`, `goroutines`, and the `select` statement. It also covers some common concurrency patterns.
 
 ## Table of Contents
 
