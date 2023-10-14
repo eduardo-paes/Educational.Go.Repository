@@ -17,7 +17,7 @@ This repository contains code examples and explanations of how to effectively us
 
 ## Introduction
 
-Go is known for its powerful concurrency support, and it's essential to understand how to use goroutines, channels, and the `select` statement effectively to harness the full power of Go's concurrent programming capabilities.
+Go is known for its powerful concurrency support, and it's essential to understand how to use `goroutines`, `channels`, and the `select` statement effectively to harness the full power of Go's concurrent programming capabilities.
 
 ## Goroutines
 
