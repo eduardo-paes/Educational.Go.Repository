@@ -1,0 +1,32 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj
+_test
+
+# Output files
+*.exe
+*.test
+*.prof
+*.tar.gz
+
+# Log files
+*.log
+
+# Binary files
+*.bin
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Go binary
+/bin/
+
+.DS_Store
