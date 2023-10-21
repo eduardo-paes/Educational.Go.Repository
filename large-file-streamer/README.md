@@ -1,6 +1,6 @@
 # File Transfer Server
 
-This README provides an overview of the code for a simple file transfer server and client written in Go. The server listens on a specified port for incoming file transfers, while the client generates and sends a random file to the server.
+This is the code for a simple file transfer server and client written in Go. The server listens on a specified port for incoming file transfers, while the client generates and sends a random file to the server.
 
 ## Table of Contents
 

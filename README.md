@@ -30,17 +30,19 @@ Before getting started with the code examples in this repository, you should hav
 
 The code in this repository is organized into various directories, each focusing on a different educational topic or concept. Below are some of the key directories you will find:
 
-- **`basics/`**: Contains simple Go programs that cover basic syntax, data types, and control structures.
+<!-- - **`basics/`**: Contains simple Go programs that cover basic syntax, data types, and control structures.
 
-- **`data-structures/`**: Demonstrates the implementation of common data structures in Go, such as linked lists, stacks, and queues.
+- **`data-structures/`**: Demonstrates the implementation of common data structures in Go, such as linked lists, stacks, and queues. -->
 
 - **`concurrency/`**: Features code examples to explore concurrent programming in Go, including goroutines, channels, and synchronization.
 
-- **`web-development/`**: Introduces web development with Go, showcasing web servers, routing, and handling HTTP requests and responses.
+- **`large-file-streamer`**: Features a simple file transfer server and client written in Go. The server listens on a specified port for incoming file transfers, while the client generates and sends a random file to the server.
+
+<!-- - **`web-development/`**: Introduces web development with Go, showcasing web servers, routing, and handling HTTP requests and responses.
 
 - **`file-io/`**: Demonstrates file input and output operations in Go, including reading and writing files.
 
-- **`api-integration/`**: Includes code for integrating with APIs and making HTTP requests using Go.
+- **`api-integration/`**: Includes code for integrating with APIs and making HTTP requests using Go. -->
 
 Each directory contains README files with explanations and instructions for each code example or project.
 
