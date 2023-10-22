@@ -40,9 +40,9 @@ The code in this repository is organized into various directories, each focusing
 
 - **`simple-api/`**: Features a simple Go application for building a RESTful API using the Echo web framework.
 
-<!-- - **`file-io/`**: Demonstrates file input and output operations in Go, including reading and writing files.
+- **`file-io/`**: Demonstrates file input and output operations in Go, including reading and writing files.
 
-- **`api-integration/`**: Includes code for integrating with APIs and making HTTP requests using Go. -->
+<!-- - **`api-integration/`**: Includes code for integrating with APIs and making HTTP requests using Go. -->
 
 Each directory contains README files with explanations and instructions for each code example or project.
 
