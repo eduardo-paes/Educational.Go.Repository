@@ -1,10 +1,10 @@
-# Educational Go Repository
+# Go Samples
 
-Welcome to the Educational Go Repository! This repository contains various Go code examples and projects created for educational purposes. Whether you are a beginner looking to learn Go or an experienced developer seeking to understand specific concepts, this repository aims to provide you with a valuable learning resource.
+This repository contains various Go code examples and projects created for educational purposes. Whether you are a beginner looking to learn Go or an experienced developer seeking to understand specific concepts, this repository aims to provide you with a valuable learning resource.
 
 ## Table of Contents
 
-- [Educational Go Repository](#educational-go-repository)
+- [Go Samples](#go-samples)
   - [Table of Contents](#table-of-contents)
   - [1. Introduction](#1-introduction)
   - [2. Prerequisites](#2-prerequisites)
@@ -34,7 +34,7 @@ The code in this repository is organized into various directories, each focusing
 
 - **`data-structures/`**: Demonstrates the implementation of common data structures in Go, such as linked lists, stacks, and queues. -->
 
-- **`concurrency/`**: Features code examples to explore concurrent programming in Go, including goroutines, channels, and synchronization.
+- **`concurrency`**: Features code examples to explore concurrent programming in Go, including goroutines, channels, and synchronization.
 
 - **`large-file-streamer`**: Features a simple file transfer server and client written in Go. The server listens on a specified port for incoming file transfers, while the client generates and sends a random file to the server.
 
