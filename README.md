@@ -34,13 +34,13 @@ The code in this repository is organized into various directories, each focusing
 
 - **`data-structures/`**: Demonstrates the implementation of common data structures in Go, such as linked lists, stacks, and queues. -->
 
-- **`concurrency`**: Features code examples to explore concurrent programming in Go, including goroutines, channels, and synchronization.
+- **`concurrency/`**: Features code examples to explore concurrent programming in Go, including goroutines, channels, and synchronization.
 
-- **`large-file-streamer`**: Features a simple file transfer server and client written in Go. The server listens on a specified port for incoming file transfers, while the client generates and sends a random file to the server.
+- **`large-file-streamer/`**: Features a simple file transfer server and client written in Go. The server listens on a specified port for incoming file transfers, while the client generates and sends a random file to the server.
 
-<!-- - **`web-development/`**: Introduces web development with Go, showcasing web servers, routing, and handling HTTP requests and responses.
+- **`simple-api/`**: Features a simple Go application for building a RESTful API using the Echo web framework.
 
-- **`file-io/`**: Demonstrates file input and output operations in Go, including reading and writing files.
+<!-- - **`file-io/`**: Demonstrates file input and output operations in Go, including reading and writing files.
 
 - **`api-integration/`**: Includes code for integrating with APIs and making HTTP requests using Go. -->
 
